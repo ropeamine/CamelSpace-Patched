@@ -1,6 +1,4 @@
 # CamelSpace-Patched
-
-CamelSpace
 ==========
 
 Prepare to be entranced! CamelSpace can take any sound you throw at it, be it
