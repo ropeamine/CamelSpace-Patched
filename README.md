@@ -1,6 +1,4 @@
 # CamelSpace-Patched
-==========
-
 Prepare to be entranced! CamelSpace can take any sound you throw at it, be it
 a pad, a synth line or a drum loop, and generate a dizzying array of
 dynamically-evolving, gated rhythmic textures.
